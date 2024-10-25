@@ -1,6 +1,7 @@
 
-![una tarjeta de presentación tipo banner muy seria y un personaje animal humanizado reflejando profesionalismo y pasión para IVAN BAEZ, Full Stack Developer](https://github.com/user-attachments/assets/b9990455-c182-45e8-a94b-53499f0cfb8f)
 
+
+![un perro estilo hip hop con gorra y lentes para un baner, nombre Ivan Baez, profesión full stack](https://github.com/user-attachments/assets/fb3cfcab-d32c-4e06-91ed-42b3844845e0)
 
 # 💫 About Me:
 👨‍💻 ¡Hola! Soy un desarrollador Full Stack Junior apasionado por la tecnología y el aprendizaje constante. Tengo habilidades en SQL, Node.js, JavaScript, HTML y CSS, lo que me permite construir soluciones web completas y eficientes. 📊<br><br>Desde Mendoza, Argentina, siempre estoy en búsqueda de nuevos desafíos que me permitan crecer profesional y personalmente. Mi objetivo es colaborar en proyectos innovadores y contribuir a la comunidad de desarrolladores con código limpio y efectivo. 💡<br><br>En mi tiempo libre, disfruto explorando nuevas tecnologías, leyendo sobre tendencias en el desarrollo de software y participando en eventos de programación. Estoy emocionado por las oportunidades que el futuro depara y siempre listo para aprender algo nuevo. 🚀 <br><br>¡Vamos a codear juntos y construir algo increíble! 🌟<br>
