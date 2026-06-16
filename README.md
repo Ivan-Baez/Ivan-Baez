@@ -78,7 +78,8 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 ---
 🚀 Proyectos Destacados | Featured Projects
 🔐 GoSafe
-Aplicación Full Stack orientada a gestión y seguridad de usuarios. | Full Stack application focused on user management and security.
+Aplicación Full Stack orientada a gestión y seguridad de usuarios. |
+Full Stack application focused on user management and security.
 
 Tecnologías | Technologies
 React · TypeScript · Node.js · Express · PostgreSQL · TypeORM
@@ -87,7 +88,8 @@ React · TypeScript · Node.js · Express · PostgreSQL · TypeORM
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez
 
 🛒 Plataforma E-commerce | E-commerce Platform
-Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura modular. | Scalable backend for an e-commerce platform using NestJS and modular architecture.
+Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura modular. |
+Scalable backend for an e-commerce platform using NestJS and modular architecture.
 
 Tecnologías | Technologies
 NestJS · TypeScript · PostgreSQL · JWT · Docker · Swagger
@@ -95,7 +97,8 @@ NestJS · TypeScript · PostgreSQL · JWT · Docker · Swagger
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez
 
 🎬 Cinema App
-Sistema CRUD para gestión de películas utilizando Express y MongoDB. | CRUD system for movie management using Express and MongoDB.
+Sistema CRUD para gestión de películas utilizando Express y MongoDB. |
+CRUD system for movie management using Express and MongoDB.
 
 Tecnologías | Technologies
 Node.js · Express · MongoDB · Mongoose · Jest
