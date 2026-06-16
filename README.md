@@ -5,11 +5,13 @@
 
 <h2 style="color:#27ae60;">👨‍💻 Sobre mí | About Me</h2>
 
-Desarrollador Full Stack enfocado en la construcción de aplicaciones web escalables utilizando JavaScript y TypeScript. | Full Stack Developer focused on building scalable web applications using JavaScript and TypeScript.  
+Desarrollador Full Stack enfocado en la construcción de aplicaciones web escalables utilizando JavaScript y TypeScript. |
+Full Stack Developer focused on building scalable web applications using JavaScript and TypeScript.  
 
 Experiencia desarrollando APIs REST, sistemas de autenticación y aplicaciones Full Stack utilizando React, Next.js, Node.js, Express, NestJS, PostgreSQL y MongoDB. | Experienced in developing REST APIs, authentication systems, and Full Stack applications using React, Next.js, Node.js, Express, NestJS, PostgreSQL, and MongoDB.  
 
-Apasionado por el aprendizaje continuo, la resolución de problemas y el trabajo colaborativo aplicando buenas prácticas de desarrollo. | Passionate about continuous learning, problem‑solving, and collaborative teamwork while applying best development practices.  
+Apasionado por el aprendizaje continuo, la resolución de problemas y el trabajo colaborativo aplicando buenas prácticas de desarrollo. |
+Passionate about continuous learning, problem‑solving, and collaborative teamwork while applying best development practices.  
 
 📍 Mendoza, Argentina | 📍 Mendoza, Argentina  
 
@@ -41,7 +43,8 @@ Git · GitHub · Docker · Swagger
 <h2 style="color:#e74c3c;">🚀 Proyectos Destacados | Featured Projects</h2>
 
 🔐 **GoSafe**  
-Aplicación Full Stack orientada a gestión y seguridad de usuarios. | Full Stack application focused on user management and security.  
+Aplicación Full Stack orientada a gestión y seguridad de usuarios. |
+Full Stack application focused on user management and security.  
 **Tecnologías | Technologies:** React · TypeScript · Node.js · Express · PostgreSQL · TypeORM  
 🔗 Demo: https://gosafe-seven.vercel.app  
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez  
@@ -56,7 +59,8 @@ Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura mo
 ---
 
 🎬 **Cinema App**  
-Sistema CRUD para gestión de películas utilizando Express y MongoDB. | CRUD system for movie management using Express and MongoDB.  
+Sistema CRUD para gestión de películas utilizando Express y MongoDB. | 
+CRUD system for movie management using Express and MongoDB.  
 **Tecnologías | Technologies:** Node.js · Express · MongoDB · Mongoose · Jest  
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez  
 
