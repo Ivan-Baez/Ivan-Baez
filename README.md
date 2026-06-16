@@ -21,7 +21,7 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 
 ---
 
-## 🌐 Redes
+## 🌐 Redes-Socials / Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ivanbaez100)
 
@@ -29,7 +29,7 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías - Technologies
 
 ### Frontend
 
@@ -57,7 +57,7 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 
 ---
 
-### Bases de Datos
+### Bases de Datos -  Databases
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -65,7 +65,7 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 
 ---
 
-### Herramientas
+### Herramientas - Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -76,45 +76,31 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 ![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
+🚀 Proyectos Destacados | Featured Projects
+🔐 GoSafe
+Aplicación Full Stack orientada a gestión y seguridad de usuarios. | Full Stack application focused on user management and security.
 
-# 🚀 Proyectos Destacados
-
-## 🔐 GoSafe
-
-Aplicación Full Stack orientada a gestión y seguridad de usuarios.
-
-### Tecnologías
+Tecnologías | Technologies
 React · TypeScript · Node.js · Express · PostgreSQL · TypeORM
 
-🔗 Demo:
-https://gosafe-seven.vercel.app
+🔗 Demo: https://gosafe-seven.vercel.app  
+🔗 Repositorio | Repository: https://github.com/Ivan-Baez
 
-🔗 Repositorio:
-https://github.com/Ivan-Baez
+🛒 Plataforma E-commerce | E-commerce Platform
+Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura modular. | Scalable backend for an e-commerce platform using NestJS and modular architecture.
 
----
-
-## 🛒 E-commerce Platform
-
-Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura modular.
-
-### Tecnologías
+Tecnologías | Technologies
 NestJS · TypeScript · PostgreSQL · JWT · Docker · Swagger
 
-🔗 Repositorio:
-https://github.com/Ivan-Baez
+🔗 Repositorio | Repository: https://github.com/Ivan-Baez
 
----
+🎬 Cinema App
+Sistema CRUD para gestión de películas utilizando Express y MongoDB. | CRUD system for movie management using Express and MongoDB.
 
-## 🎬 Cinema App
-
-Sistema CRUD para gestión de películas utilizando Express y MongoDB.
-
-### Tecnologías
+Tecnologías | Technologies
 Node.js · Express · MongoDB · Mongoose · Jest
 
-🔗 Repositorio:
-https://github.com/Ivan-Baez
+🔗 Repositorio | Repository: https://github.com/Ivan-Baez
 
 ---
 
