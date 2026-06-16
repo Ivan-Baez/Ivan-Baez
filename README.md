@@ -3,19 +3,19 @@
   <img src="https://github.com/user-attachments/assets/fb3cfcab-d32c-4e06-91ed-42b3844845e0" width="400"/>
 </p>
 
-# Ivan Baez
-
-## Full Stack Developer orientado al Desarrollo Backend
-
----
-
-## 👨‍💻 Sobre mí
-
-Desarrollador Full Stack enfocado en la construcción de aplicaciones web escalables utilizando JavaScript y TypeScript.
-
-Experiencia desarrollando APIs REST, sistemas de autenticación y aplicaciones Full Stack utilizando React, Next.js, Node.js, Express, NestJS, PostgreSQL y MongoDB.
-
+🇪🇸 Español
+Soy Iván Báez – Full Stack Developer orientado al Backend  
+Desarrollador Full Stack enfocado en construir aplicaciones web escalables con JavaScript y TypeScript.
+Experiencia en APIs REST, autenticación y aplicaciones Full Stack con React, Next.js, Node.js, Express, NestJS, PostgreSQL y MongoDB.
 Apasionado por el aprendizaje continuo, la resolución de problemas y el trabajo colaborativo aplicando buenas prácticas de desarrollo.
+
+📍 Mendoza, Argentina
+
+🇬🇧 English
+I am Iván Báez – Full Stack Developer focused on Backend  
+Full Stack Developer specialized in building scalable web applications using JavaScript and TypeScript.
+Experienced in REST APIs, authentication systems, and Full Stack applications with React, Next.js, Node.js, Express, NestJS, PostgreSQL, and MongoDB.
+Passionate about continuous learning, problem‑solving, and collaborative teamwork while applying best development practices.
 
 📍 Mendoza, Argentina
 
