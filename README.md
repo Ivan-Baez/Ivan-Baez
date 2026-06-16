@@ -2,12 +2,9 @@
   <img src="https://github.com/user-attachments/assets/fb3cfcab-d32c-4e06-91ed-42b3844845e0" width="400"/>
 </p>
 
-<h1 align="center" style="color:#2e86c1;">Ivan Baez</h1>
-<h3 align="center" style="color:#555;">Full Stack Developer | Desarrollador Full Stack</h3>
-
 ---
 
-<h2 style="color:#27ae60;">👨‍💻 Sobre mí | About Me</h2>
+<h2 style="color:#27ae60;">👨‍💻 Sobre mí </h2>
 
 Desarrollador Full Stack enfocado en la construcción de aplicaciones web escalables utilizando JavaScript y TypeScript.  
 Experiencia desarrollando APIs REST, sistemas de autenticación y aplicaciones Full Stack utilizando React, Next.js, Node.js, Express, NestJS, PostgreSQL y MongoDB.  
@@ -15,6 +12,8 @@ Apasionado por el aprendizaje continuo, la resolución de problemas y el trabajo
 📍 Mendoza, Argentina  
 
 ---
+<h2 style="color:#27ae60;">👨‍💻 About Me</h2>
+
 
 Full Stack Developer focused on building scalable web applications using JavaScript and TypeScript.  
 Experienced in developing REST APIs, authentication systems, and Full Stack applications using React, Next.js, Node.js, Express, NestJS, PostgreSQL, and MongoDB.  
@@ -32,10 +31,10 @@ Passionate about continuous learning, problem‑solving, and collaborative teamw
 
 <h2 style="color:#27ae60;">🚀 Tecnologías | Technologies</h2>
 
-### ⚛️ Frontend | Frontend  
+### ⚛️ Frontend  
 JavaScript · TypeScript · HTML5 · CSS3 · React · Next.js  
 
-### 🖥 Backend | Backend  
+### 🖥 Backend  
 Node.js · Express.js · NestJS  
 
 ### 🗄 Bases de Datos | Databases  
@@ -49,7 +48,8 @@ Git · GitHub · Docker · Swagger
 <h2 style="color:#e74c3c;">🚀 Proyectos Destacados | Featured Projects</h2>
 
 🔐 **GoSafe**  
-Aplicación Full Stack orientada a gestión y seguridad de usuarios. | Full Stack application focused on user management and security.  
+Aplicación Full Stack orientada a gestión y seguridad de usuarios. |
+Full Stack application focused on user management and security.  
 **Tecnologías | Technologies:** React · TypeScript · Node.js · Express · PostgreSQL · TypeORM  
 🔗 Demo: https://gosafe-seven.vercel.app  
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez  
@@ -57,14 +57,16 @@ Aplicación Full Stack orientada a gestión y seguridad de usuarios. | Full Stac
 ---
 
 🛒 **Plataforma E-commerce | E-commerce Platform**  
-Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura modular. | Scalable backend for an e-commerce platform using NestJS and modular architecture.  
+Backend escalable para plataforma e-commerce utilizando NestJS y arquitectura modular. |
+Scalable backend for an e-commerce platform using NestJS and modular architecture.  
 **Tecnologías | Technologies:** NestJS · TypeScript · PostgreSQL · JWT · Docker · Swagger  
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez  
 
 ---
 
 🎬 **Cinema App**  
-Sistema CRUD para gestión de películas utilizando Express y MongoDB. | CRUD system for movie management using Express and MongoDB.  
+Sistema CRUD para gestión de películas utilizando Express y MongoDB. | 
+CRUD system for movie management using Express and MongoDB.  
 **Tecnologías | Technologies:** Node.js · Express · MongoDB · Mongoose · Jest  
 🔗 Repositorio | Repository: https://github.com/Ivan-Baez  
 
